@@ -1,0 +1,10 @@
+
+pandas
+numpy
+plotly
+scikit-learn
+langchain
+langchain-community
+langchain-ollama
+langchain-core
+joblib
